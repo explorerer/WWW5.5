@@ -1,14 +1,12 @@
 # WhichWitch - 项目资源链接
 
-## 🌐 在线演示
 - **Live App**: https://which-witch-v1-mnoigi2vi-whichwitch.vercel.app/
 - **GitHub 仓库**: https://github.com/iqnuxul/whichWitch
 
-## 📊 项目展示
 - **PPT 演示**: https://www.canva.com/design/DAG5t6aAKIU/JLK99jHgZNk_ge5mS-qDsQ/view?utm_content=DAG5t6aAKIU&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3a5cb0fa9a
 
-## 🎥 演示视频
-*待添加*
+- **演示视频**： 现场播放
+- **产品运营&团队合作记录** ：https://seed-truffle-33b.notion.site/WhichWitch-2a7c216843868012a484e6afa7127ce3
 
 ## 📝 技术文档
 - 详见项目 README.md
